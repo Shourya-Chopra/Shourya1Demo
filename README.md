@@ -1,2 +1,2 @@
 # Shourya1Demo
-first repository yay
+My first git repo
